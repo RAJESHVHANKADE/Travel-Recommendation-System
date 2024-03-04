@@ -17,7 +17,7 @@ Features
 
 To use TravelRecommend, simply clone the repository to your local machine:
 
-git clone https://github.com/your-username/TravelRecommend.git
+git clone https://github.com/RAJESHVHANKADE/Travel-Recommendation-System/tree/main
 
 
 # Usage
